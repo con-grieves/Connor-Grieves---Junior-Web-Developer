@@ -11,7 +11,7 @@ h1 {
   color: #69779b;
 }
 
-h2 {
+h3 {
   color: #66BFBF;
 }
 
@@ -19,7 +19,7 @@ img {
   border-radius: 100%;
 }
 
-h3 {
+h2 {
   color: #11999E;
 }
 
@@ -40,7 +40,7 @@ p {
 }
 
 .about-me {
-  line-height: 1.5;
+  line-height: 2;
 
 }
 
@@ -180,5 +180,31 @@ a:hover {
 }
 
 #thankyou {
-  color: #f08a5d;
+  color: #e17b5e;
+}
+
+.green {
+  color: #2eaf5f;
+  font-weight: bold;
+}
+
+#green {
+  color: 
+}
+
+.subh {
+  line-height: 1.25;
+  color: #69779b;
+}
+
+.hthree {
+  margin: 25px;
+}
+
+.why {
+ 
+}
+
+#endnote {
+  color: #11999E;
 }
