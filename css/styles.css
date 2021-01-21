@@ -183,8 +183,8 @@ a:hover {
   color: #e17b5e;
 }
 
-.green {
-  color: #2eaf5f;
+.Aln {
+  color: #0f58b8;
   font-weight: bold;
 }
 
@@ -207,4 +207,30 @@ a:hover {
 
 .pqs {
   line-height: 2.5;
+}
+
+.portfolio-container {
+  margin-bottom: 15em
+}
+
+.portfolio-container a {
+  color: #66BFBF;
+  text-decoration: none;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.portfolio-container a:hover {
+  color: #666666
+}
+
+.portfolio-container p {
+  line-height: 1.25;
+  color: #69779b;
+}
+
+.portfolio-container h2 {
+  margin: 0.5em;
 }
